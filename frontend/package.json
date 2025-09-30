@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ace-builds": "^1.36.2",
-    "axios": "^1.7.7",
+    "axios": "^1.12.0",
     "core-js": "^3.8.3",
     "diff": "^7.0.0",
     "highlight.js": "^11.10.0",

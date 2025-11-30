@@ -17,7 +17,7 @@
     "marked": "^14.1.2",
     "monaco-editor": "^0.34.0",
     "monaco-editor-webpack-plugin": "^7.0.1",
-    "vue": "^3.2.13"
+    "vue": "^3.5.24"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
